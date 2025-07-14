@@ -1,7 +1,7 @@
 const mongoose = require("mongoose");
 
 mongoose
-  .connect("mongodb+srv://febinaazeez0539:Febieefebzz@cluster0.mbplmx1.mongodb.net/Blogapp?retryWrites=true&w=majority&appName=Cluster0", {
+  .connect("mongodb+srv://kavyaa:kavyaa@cluster0.tbvsia6.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0", {
     
   })
   .then(() => {
